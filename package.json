@@ -1,0 +1,19 @@
+{
+  "name": "ytdownload",
+  "version": "1.0.0",
+  "description": "my first cli based tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "ytdownload": "./index.js"
+  },
+  "author": "Pradhumn Agarwal",
+  "license": "ISC",
+  "dependencies": {
+    "cli-loader": "^1.1.1",
+    "commander": "^12.0.0",
+    "ytdl-core": "https://github.com/khlevon/node-ytdl-core.git#v4.11.3-patch.1"
+  }
+}
