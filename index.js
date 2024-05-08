@@ -1,4 +1,4 @@
-#!/usr/bin/env YTDL_NO_UPDATE node
+#!/usr/bin/env node
 
 const { Command } = require('commander');
 const { downloadVideo } = require('./download-video');
