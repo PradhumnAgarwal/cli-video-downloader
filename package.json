@@ -1,6 +1,6 @@
 {
   "name": "ytdownloadp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "my first cli based tool",
   "main": "index.js",
   "scripts": {
