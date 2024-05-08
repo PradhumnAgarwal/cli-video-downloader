@@ -1,5 +1,5 @@
 {
-  "name": "ytdownload",
+  "name": "ytdownloadp",
   "version": "1.0.0",
   "description": "my first cli based tool",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "ytdownload": "./index.js"
+    "ytdownloadp": "./index.js"
   },
   "author": "Pradhumn Agarwal",
   "license": "ISC",
