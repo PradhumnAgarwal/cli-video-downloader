@@ -14,8 +14,8 @@ To see all available options:
 $ ytdownloadp help
 ```
 
-<b>Tags</b>
--f : Specify the name of the folder in which the downloaded video will be saved.
+<b>Tags</b> <br>
+-f : Specify the name of the folder in which the downloaded video will be saved.<br>
 -n : Specify the name of the file with which you want to save the file.
 
 
